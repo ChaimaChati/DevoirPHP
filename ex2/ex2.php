@@ -1,3 +1,4 @@
+//Chati chaima
 <?php
 
 	$file = file("file.txt") or die("Impossible d'ouvrir le fichier!");
